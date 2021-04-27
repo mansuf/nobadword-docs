@@ -1,0 +1,2 @@
+# nobadword-docs
+NoBadword Documentation
